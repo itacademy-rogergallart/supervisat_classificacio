@@ -1,2 +1,5 @@
-# supervisat_classificacio
-S13 T01: Aprenentatge Supervisat - Classificació
+Curs: ITAcademy Data Science
+
+Tasca: S13 T01 - Aprenentage Supervisat Classificació
+
+Alumne: Roger Gallart
